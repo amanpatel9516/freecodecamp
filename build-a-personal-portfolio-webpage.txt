@@ -285,7 +285,7 @@ html {
 /* 460px / 16px = 28.75em */
 @media (max-width: 28.75em) {
   html {
-    font-size: 55%;
+    font-size: 56%;
   }
 }
 
@@ -353,7 +353,7 @@ img {
   }
 
   .nav-list {
-    margin: 0 1rem;
+    margin: 1 1rem;
   }
 }
 
@@ -551,6 +551,7 @@ footer i {
     flex-direction: column;
     text-align: center;
   }
+
 }
 
 ** end of undefined **
